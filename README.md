@@ -8,7 +8,7 @@ You may fork this repository and run the application as follows:
 2. Run "npm install"
 3. Run "npm start"
 
-The browser window should open with the webpage containing cipher input text boxes, and a checkboxes giving the option to encode or decode plain text.
+The browser window should open with the webpage containing cipher input text boxes, and checkboxes giving the option to encode or decode a given message.
 
 #### Caesar
 Enter a message in the top box, then enter a number between -25 and 25 (except 0) and click "Submit" to encode it. The characters of that message will be shifted along the alphabet according to the amount specified. Copy the result, reload the page, and paste the ciphered message. Using the same shift number, click the "Decode", then "Submit" to decode that same message. The characters of that message will be shifted along the alphabet according to the amount specified.
